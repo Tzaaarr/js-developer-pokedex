@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: #dce2ee;
+    background-color: aliceblue;
 }
 
 .content {
+    background-image: url("pokeball_background.png");
     width: 100vh;
     height: 100vh;
     padding: 1rem;
-    background-color: aliceblue;
 }
 
 @media screen and (min-width: 992px) {

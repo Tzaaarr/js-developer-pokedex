@@ -130,6 +130,7 @@
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
 @media screen and (min-width: 390px) {
